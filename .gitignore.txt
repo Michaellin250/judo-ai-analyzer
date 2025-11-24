@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+*.mp4
+*.mov
+logs/
+.env
